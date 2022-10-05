@@ -15,3 +15,11 @@
 =>pip install keras
 4-first run the yolo_algo.py file, which will generate model.h5 file.
 5-open the Yolo_solution.py and run this by using "python yolo_solution.py", and you have results stored after dehazing in Dehazing_output_Images and after applying object_recognition in Final Folder.
+from
+![image14](https://user-images.githubusercontent.com/43824111/194036463-6f4f7600-5d59-4af8-8887-50783d19b33f.jpg)
+to
+![The_dehazed_image](https://user-images.githubusercontent.com/43824111/194036586-b8a85d8c-7dff-4016-9d04-f241b44e1920.jpg)
+and now,
+![result](https://user-images.githubusercontent.com/43824111/194036662-cf9cb972-3b30-4a80-abe2-789dcbf967bc.jpg)
+
+
